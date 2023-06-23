@@ -1,1 +1,1 @@
-# Self-learninig-notebooks
+# Self-learning-notebooks
